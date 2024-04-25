@@ -33,3 +33,4 @@
 /Users/fred/Desktop/Learning CSHARP/EntityFrameCore/PizzaStore/obj/Debug/net8.0/PizzaStore.pdb
 /Users/fred/Desktop/Learning CSHARP/EntityFrameCore/PizzaStore/obj/Debug/net8.0/PizzaStore.genruntimeconfig.cache
 /Users/fred/Desktop/Learning CSHARP/EntityFrameCore/PizzaStore/obj/Debug/net8.0/ref/PizzaStore.dll
+/Users/fred/Desktop/Learning CSHARP/EntityFrameCore/PizzaStore/obj/Debug/net8.0/PizzaStore.sourcelink.json
